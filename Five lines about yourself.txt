@@ -1,0 +1,5 @@
+print("My name is Akshay Reddy Kethireddy.")
+print("I am studying in Birla Open Minds International School.")
+print("I am 15 years old.")
+print("My favourite subject is Artificial intelligence.")
+print("I have a younger sibling.")

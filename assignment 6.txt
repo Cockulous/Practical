@@ -1,0 +1,20 @@
+Score=int(input("Enter Score:"))
+sal=int(input("Enter Sal:"))
+if Score >=1 and Score<=10:
+ Inc=sal+sal*(3/100)
+ print(Inc)
+elif Score >=11 and Score<=30:
+ Inc=sal+sal*(5/100)
+ print(Inc)
+ 
+elif Score >=31 and Score<=50:
+ Inc=sal+sal*(8/100)
+ print(Inc)
+ 
+elif Score >=51 and Score<=80:
+ Inc=sal+sal*(11/100)
+ print(Inc)
+ 
+elif Score >=81 and Score<=100:
+ Inc=sal+sal*(15/100)
+ print(Inc)

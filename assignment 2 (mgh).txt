@@ -1,0 +1,20 @@
+x=int(input ("Enter a number: "))
+y=int(input("Enter another number: "))
+print("Sum of numbers")
+sum=x+y
+print(sum)
+print("Difference of numbers")
+diff=x-y
+print(diff)
+print("Product of numbers")
+mul=x*y
+print(mul)
+print("Division of numbers")
+div=x/y
+print(div)
+print("Floar Division of numbers")
+div=x//y
+print(div)
+print("Modular Division of numbers")
+mdiv=x%y
+print(mdiv)

@@ -1,0 +1,10 @@
+var1 = float(input("Enter number1: "))
+var2 = float(input("Enter number2: "))
+
+# Perform floor division
+ans = var1 // var2
+print("By using // operator:", ans)
+
+# Perform modulo operation
+ans2 = var1 % var2
+print("By using % operator:", ans2)
